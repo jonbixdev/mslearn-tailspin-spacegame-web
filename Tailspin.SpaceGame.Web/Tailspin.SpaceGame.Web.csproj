@@ -5,8 +5,6 @@
     <ProjectGuid>{A0C4E31E-AC75-4F39-9F59-0AA19D9B8F46}</ProjectGuid>
   </PropertyGroup>
 
-  <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20200316-205551" />
-
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
   </ItemGroup>
@@ -15,3 +13,5 @@
     <Folder Include="wwwroot\images\avatars\" />
   </ItemGroup>
 </Project>
+
+<PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20200316-205551" />
